@@ -1,7 +1,7 @@
 ### Hi Geeks 👋
 
 <p align="left">
-  <a href="https://linkedin.com/in/akshay-m-05aab8112" target="blank">
+  <a href="https://linkedin.com/in/akshay-m-05aab8112" target="_blank">
     <img align="left" alt="akshay-m-05aab8112" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
   </a>
 </p>
