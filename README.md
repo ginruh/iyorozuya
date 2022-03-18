@@ -11,8 +11,6 @@
 
 I'm **Akshay**. A passionate fullstack developer from **India**.
 
-- 🔭 I’m currently working on [neohooks](https://github.com/iyorozuya/neohooks)
-
 - 🌱 I’m currently learning **golang, redis, tdd**
 
 - 👯 I’m looking to collaborate on [neohooks](https://github.com/iyorozuya/neohooks)
